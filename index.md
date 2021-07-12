@@ -6,5 +6,5 @@
 <script src="https://tryhackme.com/badge/453800"></script>
 
 <!---
-Abhishek001konni/Abhishek001konni is a ✨ special ✨ repository
-
+✨✨
+im just doing some tryhackme rooms 
