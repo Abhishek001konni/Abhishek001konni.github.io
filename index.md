@@ -4,7 +4,7 @@ I,m Abhishek from India and i do Android development and cyb sec. I really enjoy
 
 - 🔭 I’m currently working on Building custom ROMS and Kernels 
 - 🌱 I’m currently learning c++  
-- 🤔 I’m looking for help with Teach me more contents about languages 
+- 🤔 I’m looking for help, to teach me more contents about languages 
 - 💬 Ask me about cyber security and Android developing 
 - 📫 How to reach me:  [Telegram](https://t.me/Lopster_70) 
 - Tryhackme👇
@@ -25,7 +25,6 @@ I,m Abhishek from India and i do Android development and cyb sec. I really enjoy
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek001konni&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek001konni&hide=php&theme=tokyonight" />
 </a>
-</div>
 <img src="https://github-readme-stats.vercel.app/api?username=Abhishek001konni&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
 
 [![Abhishek001konni's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abhishek001konni&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
