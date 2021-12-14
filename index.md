@@ -4,7 +4,7 @@ I,m Abhishek from India and i do Android development and cyb sec. I really enjoy
 
 - 🔭 I’m currently working on Building custom ROMS and Kernels 
 - 🌱 I’m currently learning c++  
-- 🤔 I’m looking for help, to teach me more contents about languages 
+- 🤔 I’m seeking help to learn, more contents about languages 
 - 💬 Ask me about cyber security and Android developing 
 - 📫 How to reach me:  [Telegram](https://t.me/Lopster_70) 
 - Tryhackme👇
