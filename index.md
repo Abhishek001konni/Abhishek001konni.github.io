@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Abhishek
 #### Android developer 
-I'm Abhishek from India and i do Android development and cyb sec. I really enjoy learning languages ,
+I'm Abhishek from India.I do Android development and cyb sec. I really enjoy learning languages
 
 - 🔭 I’m currently working on Building custom ROMS and Kernels 
 - 🌱 I’m currently learning c++  
